@@ -1,7 +1,7 @@
 # icold-2013
 
 ## Overview
-This is a mirror for data that was provided in Theme C of the 12th International Benchmark Workshop on Numerical Analysis of Dams.
+This is a mirror for data that was provided in Theme C of the 12th International Benchmark Workshop on Numerical Analysis of Dams (ICOLD 2013).
 The repository provides data concerning a hypothetical dam failure; it is intended to be used as a benchmark for flood simulation and consequence assessment tools.
 
 ## Results of the Workshop
